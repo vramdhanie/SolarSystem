@@ -11,5 +11,6 @@ Uranus
 Neptune
 
 ##Moons
-Lunar (Earth)
-Io (Jupiter)
+ - Lunar (Earth)
+ - Io (Jupiter)
+ - Europa (Jupiter)
