@@ -7,3 +7,4 @@ Earth
 Mars
 Jupiter
 Saturn
+Uranus
