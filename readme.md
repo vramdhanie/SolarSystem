@@ -3,3 +3,4 @@
 ##Major Bodies
 Mercury
 Venus
+Earth
