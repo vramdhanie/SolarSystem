@@ -2,3 +2,4 @@
 
 ##Major Bodies
 Mercury
+Venus
