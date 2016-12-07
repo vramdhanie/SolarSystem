@@ -12,3 +12,6 @@ Neptune
 
 ##Moons
 Lunar (Earth)
+Naiad (Neptune)
+Thalassa (Neptune)
+Despina (Neptune)
